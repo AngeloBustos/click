@@ -1,0 +1,20 @@
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\sistemitas\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\angel\Desktop\sistemitas\VentasWeb\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\angel\Desktop\sistemitas\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\sistemitas\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\sistemitas\VentasWeb\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\angel\Desktop\sistemitas\VentasWeb\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\angel\Desktop\sistemitas\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll.config
+C:\Users\angelo\Desktop\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll.config
+C:\Users\angelo\Desktop\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\angelo\Desktop\VentasWeb\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\angelo\Desktop\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\angelo\Desktop\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\angelo\Desktop\VentasWeb\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\angelo\Desktop\VentasWeb\CapaModelo\obj\Debug\CapaModelo.pdb
